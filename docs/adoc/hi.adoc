@@ -1,0 +1,10 @@
+== This is HI
+
+HI!
+
+. hi
+. hey
+. hoy
+
+.Firefox
+image::firefox.svg[firefox, width=50%, height=50%, align="center"]
